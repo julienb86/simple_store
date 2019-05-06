@@ -1,0 +1,33 @@
+[
+    {
+        "id" : "0",
+        "title" : "Lorem ipsum dolor.",
+        "image" : "https://picsum.photos/id/237/200/300",
+        "price" : "254"
+    },
+    {
+        "id" : "1",
+        "title" : "dolor sit amet consectetur adipisicing elit.",
+        "image" : "https://picsum.photos/id/237/200/300",
+        "price" : "357"
+    },
+    {
+        "id" : "2",
+        "title" : "adipisicing elit.",
+        "image" : "https://picsum.photos/id/238/200/300",
+        "price" : "128"
+    },
+    {
+        "id" : "3",
+        "title" : "sed excepturi eum vero ex.",
+        "image" : "https://picsum.photos/id/239/200/300",
+        "price" : "103"
+    },
+    {
+        "id" : "4",
+        "title" : "Lorem ipsum dolor",
+        "image" : "https://picsum.photos/id/240/200/300",
+        "price" : "249"
+    }
+]
+
